@@ -1,0 +1,40 @@
+    1  apt
+    2  apt get 
+    3  apt-get install git
+    4  sudo apt'get install git
+    5  q
+    6  ñ
+    7  Ñ
+    8  :
+    9  .;
+   10  sudo apt-get install git
+   11  git --version
+   12  sudo apt install git
+   13  ls
+   14  ls -l
+   15  ls -la
+   16  git --version
+   17  pwd
+   18  mkdir Ucatec
+   19  cd Ucatec
+   20  mkdir ia-se
+   21  cd ia-se
+   22  pwd
+   23  mkdir git-doc
+   24  cd git-doc/
+   25  pwd
+   26  ls -la
+   27  git status
+   28  git --version
+   29  git init
+   30  ls -la
+   31  git status
+   32  git branch
+   33  sudo apt update
+   34  sudo apt install code
+   35  snap install code
+   36  sudo snap install --classic code
+   37  snap warnings
+   38  code .
+   39  history
+   40  history > historial_completo.txt
